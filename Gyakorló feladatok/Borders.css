@@ -1,0 +1,15 @@
+h1 {
+    background-color: red;
+    width: 300px;
+}
+
+h2 {
+    background-color: orange;
+    width: 280px;
+    margin: 20px;
+}
+
+.majom {
+    position: fixed;
+    bottom: 0;
+}

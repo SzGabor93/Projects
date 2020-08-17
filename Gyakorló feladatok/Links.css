@@ -1,0 +1,10 @@
+a {
+    color: green;
+    margin: 10px;
+    display: block;
+}
+
+a:hover {
+    color: lime;
+    text-decoration: none;
+}

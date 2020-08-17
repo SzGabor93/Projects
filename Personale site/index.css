@@ -1,0 +1,27 @@
+hr {
+    border-color: gray;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%;
+}
+
+img{
+    height: 200px;
+    border-radius: 50%;
+}
+
+h1 { 
+    color: darkblue;
+}
+
+h3 {
+    color: darkblue;
+}
+
+body {
+    background-color: lightcyan;
+}
+
+.contact {
+    font-size: large;
+}
