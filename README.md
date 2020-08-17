@@ -1,2 +1,2 @@
 # Projects
-Eddig tanultak
+Saját projektek
